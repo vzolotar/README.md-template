@@ -47,7 +47,7 @@ Description (Section 3)
 ```shell
 ls -l //-- - just an example 
 ```
-> ### @icon-info-circle Additional information
+> ### ℹ️ Additional information
 > Note that .... (Additional information)
 
 ⚠  Important information. 
