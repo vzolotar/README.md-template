@@ -12,7 +12,7 @@ The description goes here.
   
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/SQL Server-c64646?logo=sqlserver&logoColor=black" /> <img src="https://img.shields.io/badge/Netezza-1793D1?logo=netezza&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=PostgreSQL&logoColor=black" />
 
-#### Platform 
+##### Platform 
 <img height="20" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /> <img height="20" src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft-azure&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/VMware-316192?logo=vmware&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" /> 
 
 ##### Data Sources  
